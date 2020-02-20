@@ -14,4 +14,5 @@ This script is for people who decide to use opensn0w to jailbreak their Limera1n
 
 # Troubleshooting
 Q. opensn0w fails to install because it cannot find "openssl/aes.h"
+
 A. Make sure you have OpenSSL on your computer and follow the guide here(https://stackoverflow.com/questions/45693149/openssl-aes-h-file-not-found-on-mac)
